@@ -1,0 +1,14 @@
+streamlit
+llama-index
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+chromadb
+sentence-transformers
+langchain-community
+langchain-google-genai
+langchain-core
+transformers
+torch
+huggingface-hub
+google-generativeai
