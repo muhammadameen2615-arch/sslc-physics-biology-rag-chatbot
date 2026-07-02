@@ -12,3 +12,4 @@ transformers
 torch
 huggingface-hub
 google-generativeai
+langchain-huggingface
